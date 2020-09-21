@@ -1,5 +1,8 @@
 body{
     align-content: center;
+    background-color: black;
+    color: white;
+    font-weight: bold;
 }
 h1,h3{
     text-align: center; 
